@@ -1,0 +1,3 @@
+$ heroku config:set PLIVO_AUTH_ID=MAMZFMNGYZZTFJZWNING
+$ heroku config:set PLIVO_AUTH_TOKEN=NzI0MmM2NGY0NmQ5ZTQ2ODJjYjBlZmRjMDlkMjAx
+$ heroku config:set PLIVO_NUMBER=12564475477</code>
